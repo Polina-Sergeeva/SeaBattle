@@ -1,0 +1,11 @@
+battleShipServer\server\game\Ship.class
+battleShipServer\common\Connection.class
+battleShipServer\common\MessageType.class
+battleShipServer\server\ClientConnection.class
+battleShipServer\server\Server.class
+battleShipServer\common\Game$State.class
+battleShipServer\server\game\Player.class
+battleShipServer\server\Console.class
+battleShipServer\common\Game.class
+battleShipServer\server\game\Board.class
+battleShipServer\server\ServerGame.class
